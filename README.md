@@ -41,11 +41,23 @@ This GitHub is where I document what I'm exploring and building:
 
 Some projects will be shared as demos or case studies. Others will include code you can study, adapt or build upon. Proprietary products will keep their private code private.
 
-### 04 / Selected work
+### 04 / Selected work & experiments
 
-*The first public experiments are being prepared.*
+A work-in-progress archive of ideas, interfaces and digital products. **These are not presented as finished releases.** Some preview links may be temporarily unavailable or access-restricted.
 
-As projects go live, this space will grow into a collection of prototypes, digital products and creative explorations.
+**[DREAMS](https://dreams-beta-tau.vercel.app/)** · *Product / Beta*  
+An AI-assisted product exploring how ideas can become clearer, more actionable projects. Product concept and experience in development.
+
+**[Isabel Juliane](https://www.isabeljuliane.com.br/)** · *Client work / Visual design & collaboration*  
+A digital experience built collaboratively. My contribution: visual direction and interface design. Technical development: Matheus.
+
+**[Nat — Creative Portfolio](https://natalia-borja-laboratorio.fabledluck1.chatgpt.site/)** · *Personal project / Iterating*  
+An evolving personal space for creative strategy, selected work and digital experimentation.
+
+**REVELA** · *Concept / In progress*  
+An exploration of brand strategy, identity and presence. Public case documentation is being prepared.
+
+*Purr. ecosystem and its ventures are evolving, too. I'll add tested demos, process notes and code releases as they become ready to share.*
 
 ---
 
