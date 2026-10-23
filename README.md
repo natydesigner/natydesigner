@@ -24,11 +24,9 @@ I'm interested in the space between **thinking it, designing it and making it re
 
 ### 02 / The ecosystem
 
-**Purr. ecosystem** brings together four initiatives:
+**Purr. ecosystem** is the home of my creative and technology ventures.
 
-**DREAMS** · **Nlab** · **Mtech** · **Gcria**
-
-Different fronts, connected by a shared spirit of creativity, experimentation and building meaningful things.
+Different disciplines, connected by a shared spirit of curiosity, experimentation and building meaningful things. Some initiatives are still private and will be introduced when they're ready.
 
 ### 03 / The creative lab
 
@@ -45,17 +43,11 @@ Some projects will be shared as demos or case studies. Others will include code 
 
 A work-in-progress archive of ideas, interfaces and digital products. **These are not presented as finished releases.** Some preview links may be temporarily unavailable or access-restricted.
 
-**[DREAMS](https://dreams-beta-tau.vercel.app/)** · *Product / Beta*  
-An AI-assisted product exploring how ideas can become clearer, more actionable projects. Product concept and experience in development.
-
 **[Isabel Juliane](https://www.isabeljuliane.com.br/)** · *Client work / Visual design & collaboration*  
 A digital experience built collaboratively. My contribution: visual direction and interface design. Technical development: Matheus.
 
 **[Nat — Creative Portfolio](https://natalia-borja-laboratorio.fabledluck1.chatgpt.site/)** · *Personal project / Iterating*  
 An evolving personal space for creative strategy, selected work and digital experimentation.
-
-**REVELA** · *Concept / In progress*  
-An exploration of brand strategy, identity and presence. Public case documentation is being prepared.
 
 *Purr. ecosystem and its ventures are evolving, too. I'll add tested demos, process notes and code releases as they become ready to share.*
 
